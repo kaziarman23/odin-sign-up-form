@@ -8,7 +8,7 @@
     height: 635px;
 }
 
- .bg{
+.bg{
     background-color: black;
 } 
 
@@ -63,4 +63,115 @@
     float: right;
     width: 650px;
     height: 635px;
+    overflow: hidden;
+}
+
+.r_content_div1{
+    width: 100%;
+    height: 231px;
+    background-color: cornsilk;
+    overflow: hidden;
+}
+
+.p1{
+font-size: larger;
+margin: 0 auto;
+height: 50px;
+width: 550px;
+margin-top: 110px;
+text-align: justify;
+}
+
+.p2{
+font-size: larger;
+margin: 0 auto;
+height: 20px;
+width: 550px;
+text-align: justify;
+}
+
+.p3{
+    font-size: larger;
+    margin: 0 auto;
+    height: 30px;
+    width: 550px;
+    margin-top: 10px;
+    text-align: justify;
+    }
+
+
+.r_content_div2{
+    width: 100%;
+    height: 210px;
+    background-color: white;
+    overflow: hidden;
+}
+
+.r_content_div2 h1{
+    margin-left: 20px;
+}
+
+.r_content_div2 input{
+    border-radius: 5px;
+    height: 20px;
+}
+
+.name_div{
+    margin-top: 5px;
+    width: 80%;
+    height: 50px;
+}
+
+.first_name_div{
+    float: left;
+    margin-left: 20px;
+}
+
+.last_name_div{
+    float: right;
+}
+
+.email_and_number{
+    width: 80%;
+    height: 50px;
+}
+
+.email_div{
+    float: left;
+    margin-left: 20px;
+}
+
+.phone_number_div{
+    float: right;
+}
+
+.passwords{
+    width: 80%;
+    height: 50px;
+}
+
+
+.password_div{
+    float: left;
+    margin-left: 20px;
+}
+
+.c_password_div{
+    float: right;
+}
+
+
+.r_content_div3{
+    background-color: bisque;
+    width: 100%;
+    height: 215px;
+}
+
+.r_content_div3 button{
+    padding: 15px;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+    background-color: green;
+    border-radius: 20px;
 }
